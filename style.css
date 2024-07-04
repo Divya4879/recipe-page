@@ -92,6 +92,13 @@ li::marker{
     color:hsl(14, 45%, 36%);
     font-weight: 700;
 }
+h3{
+    font-size:x-large
+}
+
+h4{
+    font-size: larger;
+}
 
 @media only screen and (max-width: 1000px) {
     .recipe-card{
